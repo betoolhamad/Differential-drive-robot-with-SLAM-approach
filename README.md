@@ -57,6 +57,4 @@ This command will create a map.pgm and the map.yaml files.
 <img width="700" alt="MAAp" src="https://user-images.githubusercontent.com/43522153/123700382-12974000-d869-11eb-97b5-511259a8337e.png">
 
 
-
-
-
+The map saved as pgm extension.
