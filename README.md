@@ -25,14 +25,17 @@ $ sudo apt-get install ros-melodic-dwa-local-planner
 $ roslaunch diff_drive_bot gazebo.launch
 ```
 
-<img width="700" alt="Rviz Drive Robot" src="https://user-images.githubusercontent.com/43522153/123696003-ecbb6c80-d863-11eb-9182-25b464afc421.png"> 
+<img width="700" alt="Gazebo Drive Robot" src="https://user-images.githubusercontent.com/43522153/123700041-a1f02380-d868-11eb-9d21-067f4e46c685.png">
+
 
 **2-** Use slam gmapping node which launch in Rviz, Run :  
 
 ```
 $ roslaunch diff_drive_bot gmapping.launch
 ```
-<img width="700" alt="Gazebo Drive Robot" src="https://user-images.githubusercontent.com/43522153/123700041-a1f02380-d868-11eb-9d21-067f4e46c685.png">
+
+<img width="700" alt="Rviz Drive Robot" src="https://user-images.githubusercontent.com/43522153/123696003-ecbb6c80-d863-11eb-9182-25b464afc421.png"> 
+
 
 **3-** Move the robot around using keyboard :
 ```
